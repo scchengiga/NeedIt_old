@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ws_header">
+    <sys_ws_header action="INSERT_OR_UPDATE">
+        <example_value/>
+        <name>From</name>
+        <required>false</required>
+        <short_description/>
+        <sys_class_name>sys_ws_header</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-01-23 00:20:11</sys_created_on>
+        <sys_id>ba0d856bdb432300bf239006db96190b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>From</sys_name>
+        <sys_package display_value="NeedIt" source="x_19757_needit">7a2acda7db432300bf239006db961985</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">7a2acda7db432300bf239006db961985</sys_scope>
+        <sys_update_name>sys_ws_header_ba0d856bdb432300bf239006db96190b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-01-23 00:20:11</sys_updated_on>
+        <web_service_definition display_value="Demo Service">41a6c127db432300bf239006db9619e3</web_service_definition>
+    </sys_ws_header>
+</record_update>
