@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update>
-    <sys_documentation element="state" label="State" language="en" table="x_19757_needit_needit">
+    <sys_documentation element="u_request_type" label="Request type" language="en" table="x_19757_needit_needit">
         <sys_documentation action="INSERT_OR_UPDATE">
-            <element>state</element>
+            <element>u_request_type</element>
             <help/>
             <hint/>
-            <label>State</label>
+            <label>Request type</label>
             <language>en</language>
             <name>x_19757_needit_needit</name>
-            <plural>States</plural>
+            <plural>Request types</plural>
             <sys_class_name>sys_documentation</sys_class_name>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2019-01-23 01:20:43</sys_created_on>
-            <sys_id>796714d8dbd72300bf239006db96197e</sys_id>
+            <sys_created_on>2019-01-25 04:34:52</sys_created_on>
+            <sys_id>7d9ad49cdbd72300bf239006db96192c</sys_id>
             <sys_mod_count>0</sys_mod_count>
-            <sys_name>State</sys_name>
+            <sys_name>Request type</sys_name>
             <sys_package display_value="NeedIt" source="x_19757_needit">7a2acda7db432300bf239006db961985</sys_package>
             <sys_policy/>
             <sys_scope display_value="NeedIt">7a2acda7db432300bf239006db961985</sys_scope>
-            <sys_update_name>sys_documentation_x_19757_needit_needit_state_en</sys_update_name>
+            <sys_update_name>sys_documentation_x_19757_needit_needit_u_request_type_en</sys_update_name>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2019-01-23 01:20:43</sys_updated_on>
+            <sys_updated_on>2019-01-25 04:34:52</sys_updated_on>
             <url/>
             <url_target/>
         </sys_documentation>
